@@ -1,9 +1,9 @@
 { 	
 	"home_state": "NJ", 
 	"major": "engineering", 
-	"math": 600, 
-	"verbal": 620, 
+	"math": 500, 
+	"verbal": 520, 
 	"writing": 580, 
 	"out_of_state": 0, 
-	"budget": 30000
+	"budget": 50000
 }

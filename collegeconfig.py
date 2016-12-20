@@ -18,3 +18,9 @@ SELECT UNITID,
 FROM Scorecard
 WHERE Year='{0}'
 """
+
+dbfile_path = 'C:/Users/peter/Documents/Codementor/MLClass/data/college/database.sqlite'
+
+NUM_CLUSTERS = 7
+
+QUERY_SAT_ADD_MAX = 20
