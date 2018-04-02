@@ -1,4 +1,4 @@
-# Codementor Python Machine Learning Class #
+# Introductory Python Machine Learning Class #
 
 Code is nearly 100% Jupyter Notebooks.  The exception is the college recommendation data product in class #2.
 
