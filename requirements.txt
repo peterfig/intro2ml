@@ -11,3 +11,4 @@ gensim
 spacy
 nltk
 pyLDAvis
+matplotlib
