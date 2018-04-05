@@ -7,4 +7,4 @@
   * Move into the repo: `cd intro2ml`.
   * `pip install -r requirements.txt` to install the required Python libraries.
   * Install the Python kernel into IPython/Jupyter notebooks: ` python -m ipykernel install --user --name nlpclass --display-name "nlp class"`
-  * Launch the notebook server in the brows with `jupyter notebook`
+  * Launch the notebook server in the browser with `jupyter notebook`
