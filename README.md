@@ -7,4 +7,9 @@
   * Move into the repo: `cd intro2ml`.
   * `pip install -r requirements.txt` to install the required Python libraries.
   * Install the Python kernel into IPython/Jupyter notebooks: ` python -m ipykernel install --user --name nlpclass --display-name "nlp class"`
+  * Download the required data for use by `nltk`.
+    * `python` from the command line
+    * `import nltk`
+    * `nltk.download()`.
+    * This will bring up a GUI where you can download the `nltk` data.
   * Launch the notebook server in the browser with `jupyter notebook`
