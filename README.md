@@ -3,6 +3,9 @@
 
 ## Method 0: pip install in your already crowded Python environment
   * `pip install pandas jupyter numpy nltk gensim pyLDAvis`
+  * Clone this repo: `git clone https://github.com/peterfig/intro2ml.git`.  (Perhaps preceeded by `brew install git`.)
+  * Move into the repo: `cd intro2ml`.
+  * Launch the notebook server in the browser with `jupyter notebook`
   
 ## Method 1: run locally, using a new virtual environment
 
