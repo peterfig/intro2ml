@@ -1,14 +1,5 @@
 # Introductory Python Machine Learning Class #
 
-Code is nearly 100% Jupyter Notebooks.  The exception is the college recommendation data product in class #2.
+## Setup 1: run locally, using a virtual environment
 
-## 2016-12-20
-Current state of the notebooks after teaching the class this year.
-
-## 2015-05-23
-Initial commit of the notebooks after the first time the class was taught.  Revision goals for the next class:
-
-* Move Pandas DataFrame basics from Class #1 to the Intro to Python course
-* Further develop the college recommendation data product
-* Add Word2Vec to the NLP Class #3
-* Add a more explicit data product to Class #3
+  * `mkvirtualenv nlpclass`.  (If you haven't installed `virtualenvwrapper`, try `sudo pip3 install virtualenvwrapper`.  See this [helpful video](https://www.google.com/search?q=install+virtualenvwrapper+mac&oq=install+virtualenvwrapper+mac&aqs=chrome..69i57j0l5.5953j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=1)
